@@ -37,5 +37,5 @@ Email :
 <p>
 <input type = "submit" value  ="Apply" name ="Save">
 <input type = "reset" value = "Cancel" name ="clear ">
-</body>
-</html>
+
+
